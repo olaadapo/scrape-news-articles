@@ -17,7 +17,8 @@ Using *Python* to get news articles from a web page ([Quartz Africa](qz.com/afri
 4. Extract info from HTML components in parsed page
 5. Save as a data frame
 
-
+## Article
+Check out the project write-up on [Medium](https://medium.com/@adeoyewole/scraping-news-articles-in-python-53c567282e25), and be sure to give a clap, and/or leave a helpful comment! 
 
 
 
