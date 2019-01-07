@@ -1,6 +1,6 @@
 # Scraping news articles from Quartz
 
-Using *Python* to get news articles from a web page ([Quartz Africa](qz.com/africa/latest)).
+Using *Python* to get news articles from a web page ([Quartz Africa](https://qz.com/africa/latest/)).
 
 ## Packages Used
 
