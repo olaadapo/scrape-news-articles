@@ -2,7 +2,7 @@
 
 Using *Python* to get news articles from a web page ([Quartz Africa](https://qz.com/africa/latest/)).
 
-## Packages Used
+## Tools Used
 
 - BeautifulSoup 4 (bs4) - installation instructions @ https://pypi.org/project/beautifulsoup4/
 - Requests (requests) - installation instructions @ http://docs.python-requests.org/en/master/
